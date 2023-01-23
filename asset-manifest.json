@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Yogeshpatidar1122/TextUtils.git/static/css/main.073c9b0a.css",
-    "main.js": "/Yogeshpatidar1122/TextUtils.git/static/js/main.0d9b8dad.js",
+    "main.js": "/Yogeshpatidar1122/TextUtils.git/static/js/main.d8362e20.js",
     "static/js/787.28cb0dcd.chunk.js": "/Yogeshpatidar1122/TextUtils.git/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/Yogeshpatidar1122/TextUtils.git/index.html",
     "main.073c9b0a.css.map": "/Yogeshpatidar1122/TextUtils.git/static/css/main.073c9b0a.css.map",
-    "main.0d9b8dad.js.map": "/Yogeshpatidar1122/TextUtils.git/static/js/main.0d9b8dad.js.map",
+    "main.d8362e20.js.map": "/Yogeshpatidar1122/TextUtils.git/static/js/main.d8362e20.js.map",
     "787.28cb0dcd.chunk.js.map": "/Yogeshpatidar1122/TextUtils.git/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0d9b8dad.js"
+    "static/js/main.d8362e20.js"
   ]
 }
